@@ -2,5 +2,9 @@
   {
     "package": "levelup",
     "url": "https://github.com/statsrhian/levelup"
-  }
+  },
+   {
+    "package": "lovedial",
+    "url": "https://github.com/statsrhian/lovedial"
+  },
 ]
