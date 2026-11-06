@@ -6,9 +6,5 @@
    {
     "package": "lovedial",
     "url": "https://github.com/statsrhian/lovedial"
-  },
-  {
-    "package": "datasauRus",
-    "url": "https://github.com/jumpingrivers/datasaurus"
-  }  
+  }
 ]
